@@ -94,7 +94,7 @@ export function HomePage({ onNavigate }: HomePageProps) {
           margin: "0 auto 2.5rem",
           lineHeight: 1.7,
         }}>
-          Business &amp; HR Enthusiast &middot; Information Systems &amp; Technology, ITB
+          Business &amp; Technology Enthusiast &middot; Information Systems &amp; Technology, ITB
         </p>
 
         {/* CTA buttons */}
